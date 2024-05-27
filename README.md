@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **new technologies like IA and Big Data.**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at [comming soon]
 
 - 📫 How to reach me **dcejudoecheverry@gmail.com**
 
