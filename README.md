@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Daniel</h1>
-<h3 align="center">I am a Junior Software Development. I consider myself curious person. I am particulary interested in tecnological topics, specially in AI and Big Data technologies.</h3>
+<h3 align="center">I am a Junior Software Developer. I consider myself curious person. I am particulary interested in tecnological topics, specially in AI and Big Data technologies.</h3>
 
 - 🔭 I am currently **doing a work placement at Correos.**
 
