@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **new technologies like IA and Big Data.**
 
-- 👨‍💻 All of my projects are available at [danielcejudo.com](danielcejudo.com)
+- 👨‍💻 All of my projects are available at [danielcejudo.com](https://www.danielcejudo.com/)
 
 - 📫 How to reach me **DCEtech@danielcejudo.com**
 
