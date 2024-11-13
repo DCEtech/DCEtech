@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Daniel</h1>
 <h3 align="center">I am a Junior Software Developer. I consider myself curious person. I am particulary interested in tecnological topics, specially in AI and Big Data technologies.</h3>
 
-- 🔭 I am currently **doing a work placement.**
+- 🔭 I am currently **doing a work placement in Horus Hardware.**
 
 - 🌱 I am currently learning **new technologies like IA and Big Data.**
 
