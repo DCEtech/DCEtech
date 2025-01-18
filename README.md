@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Daniel</h1>
-<h3 align="center">I am a Junior Software Developer. I consider myself curious person. I am particulary interested in tecnological topics, specially in AI and Big Data technologies.</h3>
+<h3 align="center">I am a Junior Software Developer. I consider myself curious person. I am particulary interested in tecnological topics.</h3>
 
 - 🔭 I am currently **working as an IT Specialist and Python Automation Developer at Ssolid Self Storage S.L**
 
